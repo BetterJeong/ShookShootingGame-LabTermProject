@@ -1,0 +1,10 @@
+﻿  rungame.c
+C:\better\HSU\2학년 1학기\프로그래밍랩[B]\TermProject\TermProject\rungame.c(243,14): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\better\HSU\2학년 1학기\프로그래밍랩[B]\TermProject\TermProject\rungame.c(319,25): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\better\HSU\2학년 1학기\프로그래밍랩[B]\TermProject\TermProject\rungame.c(594,14): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\better\HSU\2학년 1학기\프로그래밍랩[B]\TermProject\TermProject\rungame.c(679,25): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\better\HSU\2학년 1학기\프로그래밍랩[B]\TermProject\TermProject\rungame.c(225,16): warning C4101: 'last_ch' :참조되지 않은 지역 변수입니다.
+C:\better\HSU\2학년 1학기\프로그래밍랩[B]\TermProject\TermProject\rungame.c(226,9): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+C:\better\HSU\2학년 1학기\프로그래밍랩[B]\TermProject\TermProject\rungame.c(539,8): warning C4101: 'name' :참조되지 않은 지역 변수입니다.
+C:\better\HSU\2학년 1학기\프로그래밍랩[B]\TermProject\TermProject\rungame.c(541,7): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  TermProject.vcxproj -> C:\better\HSU\2학년 1학기\프로그래밍랩[B]\TermProject\TermProject\Debug\TermProject.exe
